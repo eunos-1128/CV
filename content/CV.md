@@ -1,6 +1,6 @@
 # Work experience and skills
 - Name: **UENO, MASAYOSHI**
-- Specialization: **bioinformatics** / **Web development** / **pharmaceutical chemistry**
+- Specialization: **Bioinformatics** / **Web Development** / **Medicinal Chemistry**
 
 ## PR
 I majored in chemistry and biochemistry at university, and then in pharmaceutical science and neuroscience at graduate school. After gaining experience in the education industry, I became interested in programming when the AI boom hit while I was studying at graduate school, and I started to teach myself Python.
@@ -44,7 +44,7 @@ I can write the following languages to some extent, having taught myself.
 
 <div style="page-break-before:always"></div>
 
-### Libraries, frameworks, tools
+### Libraries, frameworks and tools
 - Web development
   - Server-side
     - Django/Diango REST Framework: 3 years
@@ -97,7 +97,7 @@ I can write the following languages to some extent, having taught myself.
 ## Project
 
 ---
-### Development of a news distribution web service (outsourced)
+### Development of a news distribution web service
 ---
 #### Period
 2023/01 - 2023/08
@@ -125,7 +125,7 @@ In order to meet the customer's requirements, I used the OpenAI API to build a d
 <div style="page-break-before:always"></div>
 
 ---
-### Accounting bookkeeping posting program creation and ERP customization using JavaScript (outsourcing)
+### Accounting bookkeeping posting program creation and ERP customization using JavaScript
 ---
 #### Period
 2021/08 - 2022/08
@@ -145,7 +145,7 @@ I also customized Netsuite using the language called SuiteScript and the Netsuit
 <div style="page-break-before:always"></div>
 
 ---
-### Creation of system control script for chemical plant (outsourcing)
+### Creation of system control script for chemical plant
 ---
 #### Period
 2021/04 - 2021/05
@@ -165,7 +165,7 @@ I implemented the control program for the AI program in a shell script.
 <div style="page-break-before:always"></div>
 
 ---
-### Refactoring of AI-based Python system (outsourcing)
+### Refactoring of AI-based Python system
 ---
 #### Period
 2021/03 - 2021/04
@@ -186,7 +186,7 @@ I was also in charge of implementing a log collection and analysis platform usin
 <div style="page-break-before:always"></div>
 
 ---
-### Development of cloud-based management accounting software (in-house service)
+### Development of cloud-based management accounting software
 ---
 #### Period
 2019/01 - 2021/08
@@ -210,7 +210,7 @@ As project leader, I was involved in deciding on the specifications while commun
 <div style="page-break-before:always"></div>
 
 ---
-### Development of a research paper sharing platform (SES)
+### Development of a research paper sharing platform
 ---
 #### Period
 2019/1 - 2019/3
@@ -230,7 +230,7 @@ Participated in the development of a research paper sharing platform for researc
 <div style="page-break-before:always"></div>
 
 ---
-### Web service development for restaurant coupon site (contracted)
+### Web service development for restaurant coupon site
 ---
 #### Period
 December 2018 - May 2019
@@ -244,7 +244,7 @@ I gained experience in building environments with load balancers and multiple in
 <div style="page-break-before:always"></div>
 
 ---
-### Development of a VUI app for parcel inquiries (commissioned)
+### Development of a VUI app for parcel inquiries
 ---
 #### Period
 2018/10 - 2018/11
@@ -260,7 +260,7 @@ I progressed through communication in English with foreign engineers, including 
 <div style="page-break-before:always"></div>
 
 ---
-### Development of cloud-based management accounting software (commissioned)
+### Development of cloud-based management accounting software
 ---
 #### Period
 2018/07 - 2018/09
@@ -277,7 +277,7 @@ I was in charge of coding screen pages in collaboration with designers, infrastr
 <div style="page-break-before:always"></div>
 
 ---
-### Accounting system migration to SaaS-type accounting system (commissioned)
+### Accounting system migration to SaaS-type accounting system
 ---
 #### Period
 2018/05 - 2019/02
@@ -292,7 +292,7 @@ I was in charge of data processing and data import work to transfer the CSV data
 <div style="page-break-before:always"></div>
 
 ---
-### Web API development for a web application for proofreading (commissioned)
+### Web API development for a web application for proofreading
 ---
 #### Period
 2018/03 - 2018/04
@@ -306,7 +306,7 @@ I was in charge of the development infrastructure for a web API that reads text,
 <div style="page-break-before:always"></div>
 
 ---
-### Sales log data analysis (SES)
+### Sales log data analysis
 ---
 #### Period
 September 2017 - February 2018
@@ -326,7 +326,7 @@ Through this project, I was able to learn about the analysis environment in Pyth
 <div style="page-break-before:always"></div>
 
 ---
-### Migration of accounting system to SaaS-type accounting system (commissioned)
+### Migration of accounting system to SaaS-type accounting system
 ---
 #### Period
 2017/06 - 2017/08
