@@ -24,7 +24,7 @@ jupyterlite-p5-kernel
 jupyterlite-xeus-lua
 
 # Ruby kernel (optional)
-git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel.git
+# git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel.git
 
 # R kernel (optional)
 git+https://github.com/r-wasm/jupyterlite-webr-kernel.git
